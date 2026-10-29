@@ -1,0 +1,114 @@
+html,body{
+  width:100%;
+  height: 100%;
+  margin: 0px
+}
+
+
+.background {
+    background-color: #564256
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+ul li a {
+    display: block;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #96939b;
+}
+
+ul li {
+  float: left;
+  position: top;
+}
+
+ul li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 50px;
+  text-decoration: none;
+  position: top;
+}
+
+ul li a:hover {
+  background-color: #625f66;
+}
+ul li a.active {
+  background-color: #96939b;
+}
+
+.title {
+    color: #fc814a;
+    font-size: 50px;
+    top: 40px;
+    right: 735px;
+    position:absolute;
+}
+
+.subText{
+  color: #e8e8e8;
+  font-size: 20px;
+  position: absolute;
+  top: 300px;
+  left: 200px;
+}
+.foto{
+  position: absolute;
+  height: 150px;
+  top: 300px;
+  right:210px;
+}
+
+.info{
+  color: #e8e8e8;
+  font-size: 20px;
+  position: absolute;
+  top: 350px;
+  left: 200px;
+}
+
+.intText{
+  position:absolute;
+  font-size: 20px;
+  top: 680px;
+  left: 230px;
+  color: #fc814a;
+}
+
+.interview{
+  position:absolute;
+  font-size: 17px;
+  top: 715px;
+  left: 230px;
+  color: #fc814a
+
+}
+
+.achtTitle{
+  position: absolute;
+  font-size: 20px;
+  top: 1175px;
+  right: 270px;
+  color: #96939b;
+}
+
+.achtInfo{
+  position:absolute;
+  font-size: 20px;
+  top: 1200px;
+  right: 270px;
+  color: #96939b
+}
