@@ -67,7 +67,7 @@ ul li a.active {
 }
 .foto{
   position: absolute;
-  height: 150px;
+  height: 200px;
   top: 300px;
   right:210px;
 }
@@ -101,7 +101,7 @@ ul li a.active {
   position: absolute;
   font-size: 20px;
   top: 1175px;
-  right: 270px;
+  right: 440px;
   color: #96939b;
 }
 
@@ -109,6 +109,28 @@ ul li a.active {
   position:absolute;
   font-size: 20px;
   top: 1200px;
-  right: 270px;
+  right: 110px;
   color: #96939b
+}
+
+.projectTitle{
+  position: absolute;
+  font-size: 20px;
+  top: 1600px;
+  right: 750px;
+  color: #c0cf7d;
+}
+.projectInfo{
+  position:absolute;
+  font-size: 20px;
+  top: 1625px;
+  right:300px;
+  color: #c0cf7d
+}
+.projectList{
+  position:absolute;
+  font-size: 20px;
+  top: 1650px;
+  right:300px;
+  color: #c0cf7d
 }
