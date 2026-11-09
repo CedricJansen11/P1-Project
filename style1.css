@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  padding: 20px 130px;
+}
+
+.logo, .nav-links a, .Login a {
+  color: blue;
+  text-decoration: none;
+  font-size: 30px;
+}
+
+.nav-links {
+  display: flex;
+  gap: 45px;
+}
